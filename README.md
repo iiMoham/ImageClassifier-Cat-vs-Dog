@@ -25,6 +25,15 @@ You can install the required libraries using:
 pip install tensorflow opencv-python matplotlib numpy pandas scikit-learn
 ```
 
+## 📥 Dataset
+The dataset used for training can be downloaded from Kaggle:
+[Cats and Dogs Image Classification Dataset](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)
+
+To use the dataset:
+1. Download the dataset from Kaggle.
+2. Extract the dataset into the appropriate directory within the repository.
+3. Update the notebook with the correct dataset path before running the training process.
+
 ## 🚀 Usage
 1. Clone this repository:
 ```bash
@@ -54,4 +63,3 @@ For any inquiries, feel free to reach out via an issue on GitHub.
 
 ---
 Happy coding! 🚀
-
